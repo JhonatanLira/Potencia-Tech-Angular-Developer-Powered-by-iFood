@@ -1,13 +1,10 @@
-<<<<<<< HEAD
+
  <img src="icone-ifood.png" with="80" height="80" align="right">
-=======
-  <img src="icone-ifood.png" with="80" height="80" align="right">
->>>>>>> c125605fe1ce59d4e66bf4b1a7e464e198078416
   
 # Potência Tech Angular Developer - Powered by iFood
 
 ## Módulo I - Primeiras Paginas Interativas com Javascript
-<<<<<<< HEAD
+
 
 * Primeiros Passos Com JavaScript
 * Conhecendo Funções Javascript
@@ -28,7 +25,7 @@
 * Desafio com JavaScript: Ganhe uma Sobremesa Especial!
 * Desafio com JavaScript: Identificando Pedidos Veganos
 * Desafio com JavaScript: Gerenciamento de Pedidos de Comida Online 
-
+<!--
 ## Módulo III - Ganhando Produtividade com a plataforma Angular
 
 * Trabalhando com Web Components no Front-end
@@ -40,10 +37,6 @@
 * Módulos Angular
 * Criando um Blog com Angular
 
-<!--
-=======
-*
-
 ## Módulo II - Exercite sua Lógica com Desafios de Código Javascript
 *
 ## Módulo III - Ganhando Produtividade com a plataforma Angular
@@ -54,12 +47,4 @@
 
 ## Módulo V - Trabalhando com Rotas e Serviços no Angular
 *
-<<<<<<< HEAD
 -->
-=======
-
-
-
-
-
->>>>>>> c125605fe1ce59d4e66bf4b1a7e464e198078416
